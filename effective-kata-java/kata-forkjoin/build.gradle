@@ -1,0 +1,8 @@
+plugins {
+    id "effective-kata.java"
+}
+
+dependencies {
+    // Common Modules
+    implementation project(":common")
+}

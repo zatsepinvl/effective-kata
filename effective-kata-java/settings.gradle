@@ -1,0 +1,10 @@
+rootProject.name = "effective-kata-java"
+
+include "common"
+include "kata-bowling"
+include "kata-codecracker"
+include "kata-cqrs-booking"
+include "kata-forkjoin"
+include "kata-tennis"
+include "kata-wallet"
+include "kata-url-shortener"
