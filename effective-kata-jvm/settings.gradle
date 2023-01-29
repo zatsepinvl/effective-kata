@@ -1,4 +1,4 @@
-rootProject.name = "effective-kata-java"
+rootProject.name = "effective-kata-jvm"
 
 include "common"
 include "kata-bowling"
@@ -7,4 +7,5 @@ include "kata-cqrs-booking"
 include "kata-forkjoin"
 include "kata-tennis"
 include "kata-wallet"
+include "kata-wallet-kotlin"
 include "kata-url-shortener"

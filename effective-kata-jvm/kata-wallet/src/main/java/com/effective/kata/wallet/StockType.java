@@ -5,8 +5,8 @@ import java.util.Objects;
 public class StockType {
     private final String stockType;
 
-    private StockType(String stockType) {
-        this.stockType = stockType;
+    private StockType(String name) {
+        this.stockType = name;
     }
 
     public static StockType getInstance(String type) {
